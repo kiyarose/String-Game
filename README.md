@@ -1,12 +1,13 @@
 # String-Game
 
-A **Simple** String game in python
-I was messing around **mostly** when i made this
+A **Simple** String game in python.
 
-But i thought it be fun to share with anyone who **finds** this
+I was messing around **mostly** when i made this.
 
-And as I get bored i might **improve it**
+But i thought it be fun to share with anyone who **finds** this.
 
-Sadly the colab notebook is only **avalible** inside an **.org** 
+And as I get bored i might **improve it**.
 
-but i will post any **major** changes here!
+Sadly the colab notebook is only **avalible** inside an **.org**.
+
+but i will post any **major** changes here!.
