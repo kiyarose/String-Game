@@ -14,4 +14,6 @@ but i will post any **major** changes here!.
 
 ``---------------------------------------------------------``
 
-[Link](https://colab.research.google.com/drive/1fdFFawR_IrMSTyBJWoTG_tInY1hYCtDK?usp=sharing)
+[Colab](https://colab.research.google.com/drive/1fdFFawR_IrMSTyBJWoTG_tInY1hYCtDK?usp=sharing)
+
+[GitBook](https://damian-swan36.gitbook.io/stringgame/)
